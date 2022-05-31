@@ -2,7 +2,7 @@ Vendor of the products:D-Link
 
 Reported by: 　　　WangJincheng(wjcwinmt@outlook.com) && FeiXincheng(FXC030618@outlook.com) && ShaLetian(ltsha@njupt.edu.cn) from X1cT34m
 
-Affected products:D-Link DIR-645
+Affected products:D-Link DIR-645 <= v1.03
 
 Vendor Homepage:  https://www.dlink.com/en/consumer
 
