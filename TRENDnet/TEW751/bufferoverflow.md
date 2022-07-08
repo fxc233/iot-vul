@@ -9,6 +9,8 @@ Vendor Homepage:  https://www.trendnet.com/
 Vendor Advisory:  https://www.trendnet.com/support/support-detail.asp?prod=165_TEW-751DR , 
                   https://www.trendnet.com/support/support-detail.asp?prod=170_TEW-752DRU
 
+CVE_ID:CVE-2022-33007
+
 # summarize
 
 The LAN-side Web-Configuration Interface has Stack-based Buffer Overflow vulnerability in the `TrendNet` Wi-Fi router firmware `TEW751DR` `TEW-752DRU` . In the `genacgi_main` function of the `cgibin` program, the `sprintf` method directly uses the service parameter from `/gena.cgi`. The attackers can construct a payload to carry out arbitrary code attacks.
