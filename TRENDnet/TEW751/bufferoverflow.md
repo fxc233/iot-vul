@@ -9,7 +9,7 @@ Vendor Homepage:  https://www.trendnet.com/
 Vendor Advisory:  https://www.trendnet.com/support/support-detail.asp?prod=165_TEW-751DR , 
                   https://www.trendnet.com/support/support-detail.asp?prod=170_TEW-752DRU
 
-CVE_ID:CVE-2022-33007
+CVE_ID:[CVE-2022-33007](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-33007)
 
 # summarize
 
