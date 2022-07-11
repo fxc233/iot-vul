@@ -8,7 +8,7 @@ Vendor Homepage:  https://www.dlink.com/en/consumer
 
 Vendor Advisory:  https://tsd.dlink.com.tw/ddgo
 
-CVE_ID:CVE-2022-32092
+CVE_ID:[CVE-2022-32092](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32092)
 
 
 # summarize
