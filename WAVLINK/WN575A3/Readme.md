@@ -34,7 +34,7 @@ In the function `ftext`, we find that we can controll the content of `page` fiel
 
 ![image-20220316191407126](https://github.com/fxc233/iot-vul/blob/main/WAVLINK/WN575A3/img/3.png)
 
-In the function `set_sys_init`, the program uses function `web_get` to obtain the content of parameter  `username` , `newpass`  which are sent by `POST` request. Then, when ``newpass!= 0`, the content username is formatted into a string passed as an argument to the function `do_system` which can execute system commands.
+In the function `set_sys_init`, the program uses function `web_get` to obtain the content of parameter  `username` , `newpass`  which are sent by `POST` request. Then, when `newpass!= 0`, the content username is formatted into a string passed as an argument to the function `do_system` which can execute system commands.
 
 ![image-20220316191407126](https://github.com/fxc233/iot-vul/blob/main/WAVLINK/WN575A3/img/4.png)
 
