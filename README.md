@@ -36,6 +36,10 @@ CNVD-2022-50687   Command Injection
 
 CNVD-2022-50688   Command Injection
 
+#### WAVLINK
+
+CNVD-2022-53809   Command Injection
+
 
 ### CVE
 
