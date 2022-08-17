@@ -10,7 +10,7 @@ CNVD-2022-47133   Command Injection
 
 #### TRENDnet
 
-CNVD-2022-38121   Stack Overflow
+CNVD-2022-38121   RCE
 
 #### H3C
 
@@ -46,8 +46,8 @@ CNVD-2022-53809   Command Injection
 #### D-Link
 CVE-2022-32092   Command Injection
 
-CVE-2022-30521   Stack Overflow
+CVE-2022-30521   RCE
 
 #### TRENDnet
 
-CVE-2022-33007   Stack Overflow
+CVE-2022-33007   RCE
