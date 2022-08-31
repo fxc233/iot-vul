@@ -12,6 +12,8 @@ Vendor Homepage:  https://www.wavlink.com/en_us
 
 Vendor Advisory:  https://www.wavlink.com/en_us/firmware/details/fac744bd61.html
 
+CVE_ID:CVE-2022-37149
+
 # Summarize
 
 `WAVLINK  WL-WN575A3` was discovered to contain a command injection vulnerability when operate the file `adm.cgi`. This vulnerability allows attackers to execute arbitrary commands via the `username` parameter.
