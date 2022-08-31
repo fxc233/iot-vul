@@ -40,6 +40,7 @@ CNVD-2022-50688   Command Injection
 
 CNVD-2022-53809   Command Injection
 
+CVE-2022-37149    Command Injection
 
 ### CVE
 
