@@ -40,19 +40,17 @@ CNVD-2022-50688   Command Injection
 
 CNVD-2022-53809   Command Injection
 
-CVE-2022-37149    Command Injection
-
 ### CVE
 
 #### D-Link
-CVE-2022-32092   Command Injection
+CVE-2022-32092    Command Injection
 
-CVE-2022-30521   RCE
+CVE-2022-30521    Command Injection
 
 #### TRENDnet
 
-CVE-2022-33007   RCE
+CVE-2022-33007    Command Injection
 
 #### WAVLINK
 
-CVE-2022-37149   RCE
+CVE-2022-37149    Command Injection
