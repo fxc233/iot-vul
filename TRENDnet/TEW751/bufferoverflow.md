@@ -1,6 +1,6 @@
 Vendor of the products:TRENDnet
 
-Reported by: 　　　WangJincheng && FeiXincheng from X1cT34m
+Reported by: 　　　FeiXincheng && WangJincheng from X1cT34m
 
 Affected products: TRENDnet TEW751DR <= v1.03 , TRENDnet TEW-752DRU <= v1.03
 
