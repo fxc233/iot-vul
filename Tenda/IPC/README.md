@@ -1,5 +1,7 @@
 # Information
 
+#### CVE ID: CVE-2023-23080
+
 #### Vendor of the products:
 
 Tenda
