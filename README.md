@@ -58,3 +58,7 @@ CVE-2022-37149    Command Injection
 #### Tenda IPC
 
 CVE-2023-23080    RCE
+
+#### Cisco
+
+CVE-2023-20124    RCE
