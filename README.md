@@ -62,3 +62,5 @@ CVE-2023-23080    RCE
 #### Cisco
 
 CVE-2023-20124    RCE
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb-rv01x_rv32x_rce-nzAGWWDD
